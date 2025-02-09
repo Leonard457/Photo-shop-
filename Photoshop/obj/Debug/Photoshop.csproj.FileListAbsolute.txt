@@ -1,0 +1,7 @@
+C:\Users\HOME\source\repos\Photoshop\Photoshop\bin\Debug\Photoshop.exe.config
+C:\Users\HOME\source\repos\Photoshop\Photoshop\bin\Debug\Photoshop.exe
+C:\Users\HOME\source\repos\Photoshop\Photoshop\bin\Debug\Photoshop.pdb
+C:\Users\HOME\source\repos\Photoshop\Photoshop\obj\Debug\Photoshop.csproj.AssemblyReference.cache
+C:\Users\HOME\source\repos\Photoshop\Photoshop\obj\Debug\Photoshop.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\Photoshop\Photoshop\obj\Debug\Photoshop.exe
+C:\Users\HOME\source\repos\Photoshop\Photoshop\obj\Debug\Photoshop.pdb
